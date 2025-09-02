@@ -11,6 +11,7 @@ return {
         "rust",
         "java",
         "python",
+        "ocaml",
 
         -- Web / scripting
         "lua", -- important for Neovim config

@@ -35,6 +35,9 @@ return {
         -- Java
         jdtls = {},
 
+        -- OCaml
+        ocamllsp = {},
+
         -- Web
         tsserver = {}, -- JavaScript / TypeScript
         html = {},
